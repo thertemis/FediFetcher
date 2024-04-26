@@ -1,4 +1,5 @@
 {
+  "access-token": ACCESS_TOKEN
   "server": "mifle.eu",
   "home-timeline-length": 200,
   "max-followings": 80,
