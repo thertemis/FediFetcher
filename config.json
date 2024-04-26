@@ -1,0 +1,11 @@
+{
+  "server": "mifle.eu",
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "from-notifications": 1
+  "max-bookmarks": 80
+  "max-favourites": 80
+  "max-followings": 80
+  "max-followers": 80
+  "max-follow-request": 80
+}
